@@ -1,12 +1,10 @@
-# Teste Automatizado Android v10.0
+# Teste Automatizado Web
 
-Projeto desenvolvido para executar testes automatizados para listagem e detalhes de veiculos da WebMotors baseado nos requisitos solicitados.
+Projeto desenvolvido para executar testes automatizados para consultar ofertas da plataforma Web Motors
 
 
 ##  Requisitos
 * Java 8+ JDK deve estar instalado e com as variaveis de ambientes configuradas
-* Android Studio deve estar instalado e com as variaveis de ambientes configuradas
-* Appium instalado
 * Maven deve estar instalado e configurado no path da aplicação.
 * IDE Eclipse ou InteliJ deve estar instalada.
 
